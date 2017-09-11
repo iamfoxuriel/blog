@@ -58,10 +58,10 @@ sidebar:
             url: /#about
             icon: question
     author_links:
-        # github:
-        #     title: global.github
-        #     url: https://github.com/
-        #     icon: github
+        github:
+           title: global.github
+           url: https://github.com/iamfoxuriel
+           icon: github
         # stack_overflow:
         #     title: global.stack_overflow
         #     url: http://stackoverflow.com/users
@@ -78,14 +78,14 @@ sidebar:
         #     title: global.google_plus
         #     url: https://plus.google.com/
         #     icon: google-plus
-        # linked_in:
-        #     title: global.linkedin
-        #     url: https://www.linkedin.com/profile/
-        #     icon: linkedin
-        # mail:
-        #     title: global.mail
-        #     url: mailto:
-        #     icon: envelope-o
+        linked_in:
+           title: global.linkedin
+           url: http://www.linkedin.com/in/jadenzhuang/
+           icon: linkedin
+        mail:
+           title: global.mail
+           url: mailto:iamfoxuriel@gmail.com
+           icon: envelope-o
     rss:
         rss:
             title: global.rss
@@ -112,13 +112,13 @@ header:
 # Author
 # Your biography and your job is editable in each languages files in `languages` folder
 author:
-    email:
-    location:
+    email: iamfoxuriel@gmail.com
+    location: Xiamen/China
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production)
     # or you can use an external url
     # Overwritten by your gravatar image if `gravatar_email` is filled
-    picture:
+    picture: 'profile.png'
     # Your Twitter username without the @. E.g : `tranquilpeak`
     twitter:
     # Your personal google plus profile id, not your blog or business page id.

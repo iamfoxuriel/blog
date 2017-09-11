@@ -86,3 +86,15 @@ theme: tranquilpeak
 deploy:
   type:
 
+#algolia
+algolia:
+  applicationID: 'V7X4W5V99K'
+  apiKey: '3584c88a56ff7890a3db67f73308343b'
+  adminApiKey: '3ffeae7c19614ec90e7cce32a02cc70f'
+  indexName: 'rabears_blog'
+  chunkSize: 5000
+
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
