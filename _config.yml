@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Raebars
 subtitle:
 description:
-author: John Doe
-language:
+author: Jaden Zhuang
+language: zh-cn
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://rabears.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -43,6 +43,13 @@ highlight:
   auto_detect: false
   tab_replace:
 
+
+# Header
+menu:
+  About: /about
+  Gallery: /gallery
+
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -72,9 +79,10 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: edinburgh
+theme: tranquilpeak
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+

@@ -1,0 +1,27 @@
+#header
+name: Rabears
+description: Life's a strugle
+favicon: /fav.png
+ga: ''
+
+#nav
+nav:
+    HOME: /
+    ARCHIVE: /archives/
+    GALLERY:  /gallery/
+    ABOUT: /about/
+
+#post
+excerpt_link: Continue Reading
+
+
+#about me
+aboutMeImg: /aboutme.jpg
+
+github: https://github.com/iamfoxuriel
+twitter: https://twitter.com/iamfoxuriel
+weibo: http://weibo.com/iamfoxuriel
+
+#copyright
+themeLink: https://github.com/yiliashaw/hexo-theme-prince
+
