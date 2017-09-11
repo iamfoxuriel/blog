@@ -64,6 +64,6 @@ post:
 
 author:
     # 你的个人简介 (支持 Markdown 和 HTML 语法)
-    bio: "Life's a struggle"
+    bio: "Life's a struggle <br/> 有多少夜痛苦烦恼着你无法入睡…"
     # 你的工作简介
-    job: "Softeware Engineer"
+    job: "Software Engineer"

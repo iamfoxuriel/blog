@@ -86,8 +86,10 @@ theme: tranquilpeak
 deploy:
   type:
 
+
 #algolia
 algolia:
+  appId: 'V7X4W5V99K'
   applicationID: 'V7X4W5V99K'
   apiKey: '56ea9c94b8a2a0f51e18e78c97bce433'
   indexName: 'blog_index'
