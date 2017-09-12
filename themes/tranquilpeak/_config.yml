@@ -199,15 +199,16 @@ fb_app_id:
 # If you wanna add a sharing option, read user documentation :
 # Tranquilpeak configuration > Theme configuration > sharing-options
 sharing_options:
+
     facebook:
         icon: "fa-facebook-official"
         url: "https://www.facebook.com/sharer/sharer.php?u={{post.permalink}}"
     twitter:
         icon: "fa-twitter"
         url: "https://twitter.com/intent/tweet?text={{post.permalink}}"
-    google_plus:
-        icon: "fa-google-plus"
-        url: "https://plus.google.com/share?url={{post.permalink}}"
+    wechat:
+        icon: "fa-weixin"
+        url: "http://www.addthis.com/bookmark.php?v=300&winname=addthis&pub=ra-59b794718357a377&source=men-300&lng=zh-cn&s=wechat&url={{post.permalink}}"
     # Asian social networks
     # weibo:
     #     title: "Weibo"

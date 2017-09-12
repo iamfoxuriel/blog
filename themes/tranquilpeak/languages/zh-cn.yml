@@ -20,6 +20,7 @@ global:
     mail: "邮箱"
     rss: "RSS"
     share_on_facebook: "分享到 Facebook"
+    share_on_wechat: "分享到 WeChat"
     share_on_twitter: "分享到 Twitter"
     share_on_google_plus: "分享到 Google+"
     share_on_weibo: "分享到 Weibo"

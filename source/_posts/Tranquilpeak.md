@@ -12,7 +12,7 @@ tags:
 A gorgeous responsive theme for Hexo blog framework 
 
 [![Tranquilpeak](http://d1u9biwaxjngwg.cloudfront.net/showcases/showcase-v1.10.jpg)](http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak)
-
+ <!-- excerpt -->
 ## Summary ##
 
 - [General](#general)
@@ -66,7 +66,7 @@ A gorgeous responsive theme for Hexo blog framework
 - Gravatar
 - Algolia
 - Facebook Insights
- 
+
 ## Quick start ##
 
 **Please read [user documentation](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md), it's short and useful to discover all features and possibilities of the theme, especially the  [writing posts](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md#writing-posts) section**
