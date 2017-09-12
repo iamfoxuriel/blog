@@ -5326,6 +5326,14 @@ figure.highlight,
   .codeblock.yml .number {
     color: #0086b3; }
 
+.amp {
+  font-family: "Architects Daughter", cursive;
+  color: #88bfef;
+  padding-left: 3px;
+  padding-right: 3px;
+  font-size: 2.6rem;
+}
+
 /*
 // Default code block
 pre > code {
