@@ -1,0 +1,16 @@
+<div id="gitment" >
+</div>
+<script type="text/javascript">
+    var gitment = new Gitment({
+                   id: '<%= post.permalink %>',
+                   owner: '<%= theme.gitment_owner %>',
+                   repo: '<%= theme.gitment_repo %>',
+                   oauth: {
+                     client_id: '<%= theme.gitment_client_id %>',
+                     client_secret: '<%= theme.gitment_client_secret %>',
+                   },
+                 })
+    if(!!gitment){
+        gitment.render('gitment');
+    }
+ </script>

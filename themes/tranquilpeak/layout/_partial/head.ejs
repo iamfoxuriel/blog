@@ -157,6 +157,12 @@
             <meta class="swiftype" name="image" data-type="enum" content="<%= photo %>" />
         <% }) %>
     <% } %>
+    <% if (theme.gitment_owner) { %>
+        <%- js('assets/js/gitment.browser.js') %>
+        <%- css('assets/css/gitment.css') %>
+    <% } %>
+    <!--STYLES-->
+    <!--STYLES END-->
     <!--STYLES-->
     <%- css('assets/css/style-sxklfps8ywgfyyjcowvnb4gxdgt0zjts3hsguljmv9uqanxjbnitrovtbrek.min.css') %>
     <!--STYLES END-->

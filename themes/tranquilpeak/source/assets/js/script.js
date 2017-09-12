@@ -11432,7 +11432,7 @@ return jQuery;
     play: function() {
       var self = this;
       // Fade out the blog
-      self.$blog.fadeOut();
+      self.$blog.fadeTo("slow",0.25);
       // Fade in the about card
       self.$about.fadeIn();
       // Small timeout to drop the about card after that
@@ -11452,7 +11452,7 @@ return jQuery;
       self.liftAboutCard();
       // Fade in the blog after that the about card lifted up
       setTimeout(function() {
-        self.$blog.fadeIn();
+	  	self.$blog.fadeTo(100,1);
       }, 500);
       // Fade out the about card after that the about card lifted up
       setTimeout(function() {

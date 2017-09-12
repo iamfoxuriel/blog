@@ -48,6 +48,8 @@
                 <%- partial('post/disqus') %>
             <% } else if (theme.duoshuo_shortname) { %>
                 <%- partial('post/duoshuo') %>
+            <% } else if (theme.gitment_owner) { %>
+                <%- partial('post/gitment') %>
             <% } %>
         <% } %>
     </div>
