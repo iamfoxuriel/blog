@@ -5,6 +5,7 @@ tags:
 
 ---
 
+
 # Tranquilpeak
 
 [![Join the chat at https://gitter.im/LouisBarranqueiro/hexo-theme-tranquilpeak](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LouisBarranqueiro/hexo-theme-tranquilpeak?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -13,17 +14,7 @@ A gorgeous responsive theme for Hexo blog framework
 
 [![Tranquilpeak](http://d1u9biwaxjngwg.cloudfront.net/showcases/showcase-v1.10.jpg)](http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak)
  <!-- excerpt -->
-## Summary ##
-
-- [General](#general)
-- [Features](#features)
-- [Quick start](#quick-start)
-- [Demo](#demo)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Showcase](#showcase)
-- [License](#license)
-
+<!-- toc -->
 
 ## General ##
 

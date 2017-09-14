@@ -20,6 +20,18 @@ _[Switch English version](./README.md)_
 >* 使用express作为模拟API, 这样开发前端时可以不必有服务端依赖
 
  <!-- excerpt -->
+ {% blockquote David Levithan, Wide Awake http://rabears.com  rabears.com%}
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.
+ {% endblockquote %}
+ 
+ {% alert success %}
+ success
+ {% endalert %} 
+ 
+ {% alert danger no-icon %}
+ Here is a danger alert without icon
+ {% endalert %}
+ 
  
 {% tabbed_codeblock example http://example.com%}
    <!-- tab js -->
