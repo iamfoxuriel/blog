@@ -84,8 +84,10 @@ theme: tranquilpeak
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
-
+  type: git
+  repo: https://github.com/iamfoxuriel/iamfoxuriel.github.io
+  branch: master
+  message: "Update Blog for Rabear's"
 
 #algolia
 algolia:

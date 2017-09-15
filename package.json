@@ -10,6 +10,7 @@
     "hexo": "^3.2.0",
     "hexo-algolia": "^1.2.3",
     "hexo-algoliasearch": "^0.2.1",
+    "hexo-deployer-git": "^0.3.1",
     "hexo-front-matter": "^0.2.2",
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-baidu-sitemap": "^0.1.2",
