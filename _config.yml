@@ -92,6 +92,7 @@ algolia:
   appId: 'V7X4W5V99K'
   applicationID: 'V7X4W5V99K'
   apiKey: '56ea9c94b8a2a0f51e18e78c97bce433'
+  adminApiKey: 'd62715f8863b4f5c5ef16661b941751c'
   indexName: 'blog_index'
   chunkSize: 5000
   fields:
