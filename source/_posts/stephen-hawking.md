@@ -1,3 +1,4 @@
+---
 title: Stephen Hawking launches Centre for the Future of Intelligence
 date: 2016-10-26 01:55:37
 comments: true
