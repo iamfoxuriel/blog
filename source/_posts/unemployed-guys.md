@@ -2,6 +2,8 @@
 title: 待业青年
 date: 2010-04-28 19:33:38
 thumbnailImage: unemployeed.jpg
+categories:
+- Caprices
 tags:
 - 待业青年
 

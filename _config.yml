@@ -99,12 +99,13 @@ algolia:
   chunkSize: 5000
   fields:
     - title
+    - date
+    - permalink
+    - thumbnailImageUrl
     - tags
-    - slug
+    - categories
     - excerpt
     - excerpt:strip
-    - photos
-    - gallery
 
 baidusitemap:
     path: baidusitemap.xml

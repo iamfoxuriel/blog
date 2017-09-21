@@ -5,6 +5,10 @@ comments: true
 categories:
 - Translation
 - AI
+tags:
+- Stephen Hawking
+- 霍金
+- AI
 ---
 
 {% blockquote Stephen Hawking http://www.cam.ac.uk/research/news/the-best-or-worst-thing-to-happen-to-humanity-stephen-hawking-launches-centre-for-the-future-of www.cam.ac.uk %}

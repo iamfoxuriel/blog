@@ -3,9 +3,11 @@ title: 关于Facebook 的 React 专利许可证
 date: 2017-09-20 10:33:22
 thumbnailImage: react-lawyer.png
 thumbnailImagePosition: left
+categories:
+- Tech
+- ReactJs
 tags:
 - react
-- reactjs
 - license
 - facebook
 

@@ -7,6 +7,8 @@ coverImage: BerlinerMauer.jpg
 coverCaption: "Berliner Mauer"
 coverMeta: out
 coverSize: full
+categories:
+- Caprices
 tags:
 - Berliner Mauer
 - 柏林墙
