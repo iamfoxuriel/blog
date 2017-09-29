@@ -280,3 +280,12 @@ JEPs and JSRs don’t usually pop out of nowhere, here’s the structure that ho
 
 **Java Specification Request** ([JSR](https://jcp.org/en/jsr/all)) – The actual specification of the feature happens in this stage, can be either coming through Groups/Projects, JEPs or from individual JCP (Java Community Process) members. An umbrella JSR is usually opened for each Java version, this has yet to happen with Java 9\. Individual members of the community can also propose new Java specification requests.
 
+JEP和JSR并不是无中生有, 下面就介绍一下Java发展的生态环境:
+
+小组 - 对特定技术内容, 比如安全, 网络, Swing, HotSpot, 有共同兴趣的组织和个人
+
+项目 - 编写代码, 文档以及其他工作, 至少由一个小组赞助和支持, 比如最近的Lambda计划, Jigsaw计划和Sumatra计划.
+
+JDK改进提案(JEP) - 每当需要有新的尝试的时候, JEP可以在JCP(Java Community Process)之前或者同时提出非正式的规范(specification). 被正是认可的JEP正式写进JDK的发展路线图并分配版本号.
+
+Java规范提案(JSR) - 新特性的规范出现在这一个阶段, 可以来自于小组 / 项目, JEP, JCP成员或者Java社区(community)成员的提案. 每个Java版本都由相应的JSR支持, Java 9暂时还没有.
