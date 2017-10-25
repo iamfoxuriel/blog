@@ -2,7 +2,11 @@
 title: ReactiveX
 date: 2016-3-22 18:33:46
 thumbnailImage: Rx.png
-tags:
+categories:
+- Tech
+- ReactiveX
+tags: 
+- ReactiveX
 ---
 {% blockquote  %}
 ReactiveX 简称 Rx，全称 Reactive Extensions，最初是LINQ的一个扩展，由微软的架构师Erik Meijer领导的团队开发，在2012年11月开源，Rx是一个编程模型，目标是提供一致的编程接口，帮助开发者更方便的处理异步数据流。
