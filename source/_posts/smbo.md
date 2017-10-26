@@ -2,6 +2,7 @@
 title: SMBO - a ReactJs based framework
 date: 2017-6-3 22:12:48
 link: https://github.com/iamfoxuriel/smbo-frontend
+comments: false
 categories:
 - Tech
 - OpenSource
