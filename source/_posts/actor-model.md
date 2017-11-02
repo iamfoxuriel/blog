@@ -23,7 +23,7 @@ Actor是原始的计算单位。 这是接收消息的 _载体_，并且会基�
 
 ##### Actors是成体系存在的
 
-`And one actor is no actor`正如`One ant is no ant`。
+`One actor is no actor`正如`One ant is no ant`。
 他们是一个完整的系统。 在Actor模型中，一切都是Actor，他们需要有指向（addresses），这样以来一个Actor可以发送一个消息给另一个Actor。
 
 ##### Actors have mailboxes
